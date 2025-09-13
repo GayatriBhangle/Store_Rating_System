@@ -1,4 +1,3 @@
-# Store_Rating_System
 # Store Rating Application
 
 A full-stack web application that allows users to submit ratings for registered stores with role-based access control.
