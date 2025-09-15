@@ -369,10 +369,6 @@ INSERT INTO users (name, email, password, address, role) VALUES
 4. Push to the branch
 5. Create a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ---
 
 **Note**: This application is built for educational purposes and demonstrates full-stack development best practices including security, validation, and proper API design.
